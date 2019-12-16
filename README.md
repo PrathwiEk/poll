@@ -4,7 +4,7 @@
   
  The application requires  
  * Python 3.7.2 or newer  
- * Python add-on modules as in [requirements.txt](requirements.txt)
+ * Python add-on modules as in [poll/pollsapi1/requirements.txt](requirements.txt)
  * Vue cli 4
   
   
